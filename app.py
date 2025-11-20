@@ -16,4 +16,4 @@ weekly_hours = hours * 5
 #add calculation for weekly hours based on daily input
 
 print(f"you are on track to work {weekly_hours} hours this week!")
-#show user their projected weekly hours worked 
+#show user their projected weekly hours worked
